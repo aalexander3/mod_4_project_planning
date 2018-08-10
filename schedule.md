@@ -6,7 +6,7 @@
 |           | **Get Groups!**                           | **Group** Project Mode   | **Group** Project Mode     |                        |
 | Afternoon | **Group** Project Ideation                |                          | **LUNCH**                  |                        |
 |           | **Group** Project Pitches                 |                          |                            |                        |
-| Evening   | **Group** Project Mode                    |                          |                            | **Group** Project Mode |
+| Evening   | **Group** Project Mode                    |                          | **Feelings**               | **Group** Project Mode |
 
 Here's a little schedule for August 15-20.
 
